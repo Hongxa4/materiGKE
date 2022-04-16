@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
         Nama saya Alvin Hong Wardoyono <br/>
         NIM: 51019001 <br/>
         Jurusan Sistem Informasi <br/>
-        Mata Kuliah Cloud Computing 
+        Mata Kuliah Cloud Computing.
     `)
 })
 
